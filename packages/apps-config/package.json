@@ -44,7 +44,7 @@
     "@polkadot/util": "^12.3.2",
     "@polkadot/wasm-util": "^7.2.1",
     "@polkadot/x-fetch": "^12.3.2",
-    "@polkadot/x-ws": "^12.3.2",
+    "@polkadot/x-ws": "^13.2.1",
     "@polymeshassociation/polymesh-types": "5.4.1",
     "@snowfork/snowbridge-types": "0.2.7",
     "@sora-substrate/type-definitions": "1.17.16",
